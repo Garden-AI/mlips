@@ -1,4 +1,5 @@
 # /// script
+# requires_python = "==3.12"
 # dependencies = [
 #     "ase",
 #     "torch",
