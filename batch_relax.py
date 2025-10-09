@@ -1,5 +1,5 @@
 # /// script
-# requires_python = "==3.12"
+# requires-python = ">=3.12,<3.13"
 # dependencies = [
 #     "ase",
 #     "torch",
